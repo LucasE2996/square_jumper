@@ -1,0 +1,25 @@
+* Adicionar animações de pássaros no céu
+--> consultar como adicionar gif's
+--> adiciona-los aleatoriamente, min = a cada 4 pontos; max = a cada 10 
+pontos
+
+* Pesquisar como trabalhar com tempo em JavaScript
+--> tempo baseando-se na data do pc
+--> tempo em cronômetro
+
+* Montar um fundo alternativo para quando o jogador atingir > 30 pontos
+--> usar 5 pontos como teste
+
+* Mudar a ação de pulo para teclado spaço [space key]
+
+* Adicionar poderes ao personagem quando o jogador atingir um certo 
+nivel de pontução
+--> quando chegar à 20 pontos poderá pular mais
+
+* Adicionar ao personagem invencibilidade pós colisão por 2s
+--> fazer a animação de "pisca-pisca" em vermelho dando sentido de dano 
+sofrido
+
+
+
+
